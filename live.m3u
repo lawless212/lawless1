@@ -1,14 +1,54 @@
-#EXTINF:-1,UK: BBC ONE HD
-http://smashtv.ddns.net:9090/load/7c97410f261c/1.mpegts
-#EXTINF:-1,UK: BT Sports 2 HD
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/143.ts
-#EXTINF:-1,UK: BT Sports 3 HD
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/144.ts
-#EXTINF:-1,UK : Sky Sports Main Event
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/76.ts
-#EXTINF:-1,UK : Sky Sports Arena
+#EXTINF:-1,UK: Sky Sports Main Event
+http://smashtv.ddns.net:9090/load/7c97410f261c/24.mpegts
+#EXTINF:-1,UK: Sky Sports Main Event HD
+http://smashtv.ddns.net:9090/load/7c97410f261c/6850.mpegts
+#EXTINF:-1,UK: Sky Sports Cricket
+http://smashtv.ddns.net:9090/load/7c97410f261c/25.mpegts
+#EXTINF:-1,UK : Sky Sports Cricket HD
+http://smashtv.ddns.net:9090/load/7c97410f261c/6903.mpegts
+#EXTINF:-1,UK : Sky Sports Action
+http://smashtv.ddns.net:9090/load/7c97410f261c/26.mpegts
+#EXTINF:-1,UK : Sky Sports Action HD
+http://smashtv.ddns.net:9090/load/7c97410f261c/6904.mpegts
+#EXTINF:-1,UK : Sky Sports Golf
+http://smashtv.ddns.net:9090/load/7c97410f261c/27.mpegts
+#EXTINF:-1,UK : Sky Sports Golf HD
+http://smashtv.ddns.net:9090/load/7c97410f261c/6905.mpegts
+#EXTINF:-1,UK : Sky Sports Football
+http://smashtv.ddns.net:9090/load/7c97410f261c/7552.mpegts
+#EXTINF:-1,UK : Sky Sports Football HD
+http://smashtv.ddns.net:9090/load/7c97410f261c/7572.mpegts
+#EXTINF:-1,UK : Sky Sports Premier League
+http://smashtv.ddns.net:9090/load/7c97410f261c/28.mpegts
+#EXTINF:-1,UK : Sky Sports Premier League HD
+http://smashtv.ddns.net:9090/load/7c97410f261c/6906.mpegts
+#EXTINF:-1,UK : Sky Sports Arena HD
 http://smashtv.ddns.net:9090/load/7c97410f261c/7556.mpegts
-#EXTINF:-1,UK:Sky Sports ACTION
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/78.ts
-#EXTINF:-1,UK:Sky Sports golf
-http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/79.ts
+#EXTINF:-1,UK : Sky Sports F1
+http://smashtv.ddns.net:9090/load/7c97410f261c/64.mpegts
+#EXTINF:-1,UK : Sky Sports F1 HD
+http://smashtv.ddns.net:9090/load/7c97410f261c/6907.mpegts
+#EXTINF:-1,UK : Sky Sports Mix
+http://smashtv.ddns.net:9090/load/7c97410f261c/7508.mpegts
+#EXTINF:-1,UK : Sky Sports Mix HD
+http://smashtv.ddns.net:9090/load/7c97410f261c/7071.mpegts
+#EXTINF:-1,UK : Sky Sports News
+http://smashtv.ddns.net:9090/load/7c97410f261c/63.mpegts
+#EXTINF:-1,UK : Sky Sports News HD
+http://smashtv.ddns.net:9090/load/7c97410f261c/7072.mpegts
+#EXTINF:-1,UK : BT Sport 1
+http://smashtv.ddns.net:9090/load/7c97410f261c/1201.mpegts
+#EXTINF:-1,UK : BT Sport 1 HD
+http://smashtv.ddns.net:9090/load/7c97410f261c/7423.mpegts
+#EXTINF:-1,UK : BT Sport 2
+http://smashtv.ddns.net:9090/load/7c97410f261c/1755.mpegts
+#EXTINF:-1,UK : BT Sport 2 HD
+http://smashtv.ddns.net:9090/load/7c97410f261c/432.mpegts
+#EXTINF:-1,UK : BT Sport 3
+http://smashtv.ddns.net:9090/load/7c97410f261c/6828.mpegts
+#EXTINF:-1,UK : BT Sport 3 HD
+http://smashtv.ddns.net:9090/load/7c97410f261c/7073.mpegts
+#EXTINF:-1,UK : BT Sport ESPN
+http://smashtv.ddns.net:9090/load/7c97410f261c/273.mpegts
+#EXTINF:-1,UK : BT Sport ESPN HD
+http://smashtv.ddns.net:9090/load/7c97410f261c/7099.mpegts
